@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_perseus.mk
+    $(LOCAL_DIR)/palladium_perseus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_perseus-user \
-    lineage_perseus-userdebug \
-    lineage_perseus-eng
+    palladium_perseus-user \
+    palladium_perseus-userdebug \
+    palladium_perseus-eng
